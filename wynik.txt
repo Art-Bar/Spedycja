@@ -1,0 +1,6 @@
+Poznan ->Szczecin :220
+Poznan ->Szczecin-> Koszalin :330
+Poznan ->Bytom :300
+Poznan ->Lodz :130
+Poznan ->Lodz-> Katowice :300
+Poznan ->Bytom-> Wroclaw :480
